@@ -104,3 +104,4 @@ public class Product implements ConvertToJsonInterface, LoadFromJsonInterface<Pr
 		this.lookupCode = productTransition.getLookupCode();
 	}
 }
+//This is a good example
